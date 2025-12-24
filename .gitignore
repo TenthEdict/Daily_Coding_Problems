@@ -30,3 +30,8 @@ env/
 # Personal email data (optional - uncomment if you want to exclude)
 Emails/
 
+# Utility scripts
+parse_mbox_to_excel.py
+
+# spreadsheet
+daily_coding_problems_categorized.xlsx
