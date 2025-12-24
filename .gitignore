@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+*.code-workspace
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Personal email data (optional - uncomment if you want to exclude)
+Emails/
+
