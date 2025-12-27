@@ -32,6 +32,9 @@ Emails/
 
 # Utility scripts
 parse_mbox_to_excel.py
+daily-coding-problem.skill
+requirements.txt
+Claude.md
 
 # spreadsheet
 daily_coding_problems_categorized.xlsx
