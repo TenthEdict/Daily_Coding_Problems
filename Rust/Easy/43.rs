@@ -55,5 +55,5 @@ fn main() {
 
     arr.pop();
     arr.pop();
-    println!("{:?}", arr.max());  // Empty stack - what should this print?
+    println!("{:?}", arr.max()); 
 }
