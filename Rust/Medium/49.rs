@@ -39,6 +39,6 @@ fn main() {
     println!("{:?}", max_subarray_sum_nonempty(&[34, -50, 42, 14, -5, 86])); // 137
     println!("{:?}", max_subarray_sum_nonempty(&[-5, -1, -8, -9]));          // 0
     println!("{:?}", max_subarray_sum_nonempty(&[1, 2, 3, 4]));              // 10
-    println!("{:?}", max_subarray_sum_nonempty(&[]));                        // 0
+    println!("{:?}", max_subarray_sum_nonempty(&[]));                        // None
     println!("{:?}", max_subarray_sum_nonempty(&[-2, 1, -1, 2, -1, 2]));     // 3
 }
