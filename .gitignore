@@ -29,6 +29,7 @@ env/
 
 # Personal email data (optional - uncomment if you want to exclude)
 Emails/
+Emails.zip
 
 # Utility scripts
 parse_mbox_to_excel.py
