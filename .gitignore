@@ -40,4 +40,6 @@ SKILL.md
 
 # spreadsheet
 daily_coding_problems.xlsx
-159
+
+# java classes
+*.class
