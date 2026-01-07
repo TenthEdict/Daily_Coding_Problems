@@ -38,8 +38,5 @@ requirements.txt
 Claude.md
 SKILL.md
 
-# spreadsheet
-daily_coding_problems.xlsx
-
 # java classes
-*.class
+Java/Classes/*.class
