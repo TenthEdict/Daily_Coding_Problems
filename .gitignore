@@ -10,6 +10,7 @@ __pycache__/
 *.egg-info/
 .eggs/
 *.egg
+update_readme_stats.py
 
 # Virtual environments
 venv/
