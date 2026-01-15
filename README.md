@@ -15,13 +15,13 @@ A collection of solved problems from [dailycodingproblem.com](https://www.dailyc
 
 | Language | Solutions | % of Total |
 |----------|----------:|-----------:|
-| Python | 14 | 26.9% |
-| C++ | 4 | 7.7% |
-| Rust | 21 | 40.4% |
-| TypeScript | 3 | 5.8% |
-| JavaScript | 5 | 9.6% |
+| Python | 14 | 26.4% |
+| C++ | 4 | 7.5% |
+| Rust | 21 | 39.6% |
+| TypeScript | 3 | 5.7% |
+| JavaScript | 5 | 9.4% |
 | Bash | 1 | 1.9% |
-| C | 2 | 3.8% |
+| C | 3 | 5.7% |
 | Java | 2 | 3.8% |
 
-*Last updated: 2026-01-14*
+*Last updated: 2026-01-15*
