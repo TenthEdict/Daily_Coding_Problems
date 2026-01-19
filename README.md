@@ -6,10 +6,10 @@ A collection of solved problems from [dailycodingproblem.com](https://www.dailyc
 
 | Difficulty | Total | Solved | Not Started | % Complete |
 |------------|------:|-------:|------------:|-----------:|
-| Easy | 356 | 21 | 335 | 5.9% |
-| Medium | 446 | 3 | 443 | 0.7% |
-| Hard | 281 | 1 | 280 | 0.4% |
-| TOTAL | 1083 | 25 | 1058 | 2.3% |
+| Easy | 125 | 21 | 104 | 16.8% |
+| Medium | 158 | 3 | 155 | 1.9% |
+| Hard | 101 | 1 | 100 | 1.0% |
+| TOTAL | 384 | 25 | 359 | 6.5% |
 
 ## Solutions by Language
 
