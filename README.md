@@ -15,13 +15,21 @@ A collection of solved problems from [dailycodingproblem.com](https://www.dailyc
 
 | Language | Solutions | % of Total |
 |----------|----------:|-----------:|
-| Python | 16 | 26.7% |
-| C++ | 4 | 6.7% |
-| Rust | 24 | 40.0% |
-| TypeScript | 3 | 5.0% |
-| JavaScript | 5 | 8.3% |
-| Zsh | 2 | 3.3% |
-| C | 3 | 5.0% |
-| Java | 3 | 5.0% |
+| Python | 16 | 27.6% |
+| C++ | 4 | 6.9% |
+| Rust | 24 | 41.4% |
+| TypeScript | 3 | 5.2% |
+| JavaScript | 5 | 8.6% |
+| C | 3 | 5.2% |
+| Java | 3 | 5.2% |
+| Total | 58 | 100.0% |
+
+## Shell Script Progress
+
+*18 problems selected for shell scripting practice*
+
+| Shell | Solved | Total | % Complete |
+|-------|-------:|------:|-----------:|
+| Zsh | 2 | 18 | 11.1% |
 
 *Last updated: 2026-01-19*
