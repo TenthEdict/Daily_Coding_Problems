@@ -8,7 +8,7 @@ fn max_subarray_sum(arr: &[i32]) -> i32 {
     let mut max_sum: i32 = 0;
 
     for i in arr {
-        current_sum += i;
+        current_sum = current_sum + i;
         max_sum = max_sum.max(current_sum);
         if current_sum < 0 {
             current_sum = 0;
