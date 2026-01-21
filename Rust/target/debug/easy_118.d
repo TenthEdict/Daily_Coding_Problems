@@ -1,0 +1,1 @@
+/Users/broderickschipp/Documents/Obsidian\ Vault/Daily\ Coding\ Problems/Rust/target/debug/easy_118: /Users/broderickschipp/Documents/Obsidian\ Vault/Daily\ Coding\ Problems/Rust/src/bin/easy_118.rs

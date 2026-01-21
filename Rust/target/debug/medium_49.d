@@ -1,0 +1,1 @@
+/Users/broderickschipp/Documents/Obsidian\ Vault/Daily\ Coding\ Problems/Rust/target/debug/medium_49: /Users/broderickschipp/Documents/Obsidian\ Vault/Daily\ Coding\ Problems/Rust/src/bin/medium_49.rs

@@ -1,5 +1,8 @@
 # macOS
 .DS_Store
+zzz_archive/
+.claude/
+run_commands.md
 
 # Python
 __pycache__/
