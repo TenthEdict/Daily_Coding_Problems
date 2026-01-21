@@ -3,6 +3,10 @@
 zzz_archive/
 .claude/
 run_commands.md
+Rust/target
+Rust/Cargo.lock
+Rust/Cargo.toml
+
 
 # Python
 __pycache__/
