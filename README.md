@@ -6,23 +6,23 @@ A collection of solved problems from [dailycodingproblem.com](https://www.dailyc
 
 | Difficulty | Total | Solved | Not Started | % Complete |
 |------------|------:|-------:|------------:|-----------:|
-| Easy | 125 | 22 | 103 | 17.6% |
+| Easy | 125 | 23 | 102 | 18.4% |
 | Medium | 158 | 3 | 155 | 1.9% |
 | Hard | 101 | 1 | 100 | 1.0% |
-| TOTAL | 384 | 26 | 358 | 6.8% |
+| TOTAL | 384 | 27 | 357 | 7.0% |
 
 ## Solutions by Language
 
 | Language | Solutions | % of Total |
 |----------|----------:|-----------:|
-| Python | 16 | 27.1% |
-| C++ | 4 | 6.8% |
-| Rust | 24 | 40.7% |
-| TypeScript | 3 | 5.1% |
-| JavaScript | 5 | 8.5% |
-| C | 4 | 6.8% |
-| Java | 3 | 5.1% |
-| Total | 59 | 100.0% |
+| Python | 16 | 26.7% |
+| C++ | 4 | 6.7% |
+| Rust | 25 | 41.7% |
+| TypeScript | 3 | 5.0% |
+| JavaScript | 5 | 8.3% |
+| C | 4 | 6.7% |
+| Java | 3 | 5.0% |
+| Total | 60 | 100.0% |
 
 ## Shell Script Progress
 
@@ -32,4 +32,4 @@ A collection of solved problems from [dailycodingproblem.com](https://www.dailyc
 |-------|-------:|------:|-----------:|
 | Zsh | 2 | 18 | 11.1% |
 
-*Last updated: 2026-01-19*
+*Last updated: 2026-01-20*
