@@ -3,9 +3,8 @@
 zzz_archive/
 .claude/
 run_commands.md
-Rust/target
+Rust/target/
 Rust/Cargo.lock
-Rust/Cargo.toml
 
 
 # Python
