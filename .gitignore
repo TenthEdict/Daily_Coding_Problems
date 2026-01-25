@@ -46,4 +46,4 @@ Claude.md
 SKILL.md
 
 # java classes
-Java/Classes/*.class
+Java/src/bin/classes/*.class

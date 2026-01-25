@@ -15,14 +15,14 @@ A collection of solved problems from [dailycodingproblem.com](https://www.dailyc
 
 | Language | Solutions | % of Total |
 |----------|----------:|-----------:|
-| Python | 16 | 25.8% |
-| C++ | 4 | 6.5% |
-| Rust | 27 | 43.5% |
+| Python | 16 | 25.4% |
+| C++ | 4 | 6.3% |
+| Rust | 27 | 42.9% |
 | TypeScript | 3 | 4.8% |
-| JavaScript | 5 | 8.1% |
-| C | 4 | 6.5% |
-| Java | 3 | 4.8% |
-| Total | 62 | 100.0% |
+| JavaScript | 5 | 7.9% |
+| C | 4 | 6.3% |
+| Java | 4 | 6.3% |
+| Total | 63 | 100.0% |
 
 ## Shell Script Progress
 
@@ -32,4 +32,4 @@ A collection of solved problems from [dailycodingproblem.com](https://www.dailyc
 |-------|-------:|------:|-----------:|
 | Zsh | 2 | 18 | 11.1% |
 
-*Last updated: 2026-01-22*
+*Last updated: 2026-01-25*
